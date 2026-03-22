@@ -108,4 +108,4 @@ https://doh.cmliussss.hidns.co/ip-info?ip=8.8.8.8&token=CMLiussss
 本项目开源使用，欢迎自由部署和修改！
 
 ## 🙏 鸣谢
-[tina-hello](https://github.com/tina-hello/doh-cf-workers)、[ip-api](https://ip-api.com/)、Cloudflare、GPT
+[tina-hello](https://github.com/tina-hello/doh-cf-workers)、[ip-api](https://ip-api.com/)、Cloudflare、 GPT   
